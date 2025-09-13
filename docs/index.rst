@@ -3,7 +3,7 @@ How to Login Outlook Mail Easily?
 
 Outlook is one of the most widely used email services, known for its user-friendly interface, powerful features, and tight integration with Microsoft’s suite of tools. Whether you use Outlook for personal communication, business correspondence, or both, knowing how to log in to your account is essential to accessing your email, calendar, contacts, and more.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
